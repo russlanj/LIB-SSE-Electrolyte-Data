@@ -1,5 +1,4 @@
-# Li-ion-batteries
-Lithium ion battery / machine learning prediction project
+# LIB SSE IC Prediction using Machine Learning
 
 This repositry contains the following:
 
