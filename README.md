@@ -1,4 +1,4 @@
-# LIB SSE IC Prediction using Machine Learning
+# Lithium-ion Battery (LIB) Solid State Electrolyte (SSE) Ionic Conductivity (IC) Prediction using Machine Learning
 
 This repositry contains the following:
 
